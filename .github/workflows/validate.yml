@@ -1,0 +1,22 @@
+name: Validate control repository
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON inventory
+        run: python3 -m json.tool data/catalogo_proyectos.json > /dev/null
+      - name: Check required governance files
+        run: |
+          test -f docs/01-informe-ejecutivo.md
+          test -f docs/02-inventario-proyectos.md
+          test -f docs/03-plan-seguridad.md
+          test -f resources/catalogo-recursos.md

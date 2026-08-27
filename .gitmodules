@@ -1,0 +1,235 @@
+[submodule "sources/belentani-local"]
+	path = sources/belentani-local
+	url = https://github.com/belentani7/belentani-local.git
+
+[submodule "sources/aion"]
+	path = sources/aion
+	url = https://github.com/belentani7/aion.git
+
+[submodule "sources/duck-unified-master"]
+	path = sources/duck-unified-master
+	url = https://github.com/belentani7/duck-unified-master.git
+
+[submodule "sources/Cruzando-el-charco"]
+	path = sources/Cruzando-el-charco
+	url = https://github.com/belentani7/Cruzando-el-charco.git
+
+[submodule "sources/duck-music-lab"]
+	path = sources/duck-music-lab
+	url = https://github.com/belentani7/duck-music-lab.git
+
+[submodule "sources/belentani7-gestaltAI"]
+	path = sources/belentani7-gestaltAI
+	url = https://github.com/belentani7/belentani7-gestaltAI.git
+
+[submodule "sources/linguaforge"]
+	path = sources/linguaforge
+	url = https://github.com/belentani7/linguaforge.git
+
+[submodule "sources/ManosAbiertas"]
+	path = sources/ManosAbiertas
+	url = https://github.com/belentani7/ManosAbiertas.git
+
+[submodule "sources/duck-studio-suite"]
+	path = sources/duck-studio-suite
+	url = https://github.com/belentani7/duck-studio-suite.git
+
+[submodule "sources/duck-belentani-os-audited-2026-08-23"]
+	path = sources/duck-belentani-os-audited-2026-08-23
+	url = https://github.com/belentani7/duck-belentani-os-audited-2026-08-23.git
+
+[submodule "sources/ivy-la-vie"]
+	path = sources/ivy-la-vie
+	url = https://github.com/belentani7/ivy-la-vie.git
+
+[submodule "sources/belentani7"]
+	path = sources/belentani7
+	url = https://github.com/belentani7/belentani7.git
+
+[submodule "sources/ManosAbiertas-backup-v1"]
+	path = sources/ManosAbiertas-backup-v1
+	url = https://github.com/belentani7/ManosAbiertas-backup-v1.git
+
+[submodule "sources/belentani_Omega"]
+	path = sources/belentani_Omega
+	url = https://github.com/belentani7/belentani_Omega.git
+
+[submodule "sources/duck-ecosystem"]
+	path = sources/duck-ecosystem
+	url = https://github.com/belentani7/duck-ecosystem.git
+
+[submodule "sources/duck-2026"]
+	path = sources/duck-2026
+	url = https://github.com/belentani7/duck-2026.git
+
+[submodule "sources/duck-full-studio-pro"]
+	path = sources/duck-full-studio-pro
+	url = https://github.com/belentani7/duck-full-studio-pro.git
+
+[submodule "sources/Steven-renovation"]
+	path = sources/Steven-renovation
+	url = https://github.com/belentani7/Steven-renovation.git
+
+[submodule "sources/judas-experience"]
+	path = sources/judas-experience
+	url = https://github.com/belentani7/judas-experience.git
+
+[submodule "sources/mimo-companion"]
+	path = sources/mimo-companion
+	url = https://github.com/belentani7/mimo-companion.git
+
+[submodule "sources/meta-skill"]
+	path = sources/meta-skill
+	url = https://github.com/belentani7/meta-skill.git
+
+[submodule "sources/claude-skills-pack"]
+	path = sources/claude-skills-pack
+	url = https://github.com/belentani7/claude-skills-pack.git
+
+[submodule "sources/belentani-omega-template"]
+	path = sources/belentani-omega-template
+	url = https://github.com/belentani7/belentani-omega-template.git
+
+[submodule "sources/arte-que-veste"]
+	path = sources/arte-que-veste
+	url = https://github.com/belentani7/arte-que-veste.git
+
+[submodule "sources/judas-omega-static"]
+	path = sources/judas-omega-static
+	url = https://github.com/belentani7/judas-omega-static.git
+
+[submodule "sources/heyduck"]
+	path = sources/heyduck
+	url = https://github.com/belentani7/heyduck.git
+
+[submodule "sources/Belentani"]
+	path = sources/Belentani
+	url = https://github.com/belentani7/Belentani.git
+
+[submodule "sources/oss-compass"]
+	path = sources/oss-compass
+	url = https://github.com/belentani7/oss-compass.git
+
+[submodule "sources/omniagent"]
+	path = sources/omniagent
+	url = https://github.com/belentani7/omniagent.git
+
+[submodule "sources/temporal-artifact-detector"]
+	path = sources/temporal-artifact-detector
+	url = https://github.com/belentani7/temporal-artifact-detector.git
+
+[submodule "sources/latent-consistency-bench"]
+	path = sources/latent-consistency-bench
+	url = https://github.com/belentani7/latent-consistency-bench.git
+
+[submodule "sources/manus-ai-skill-pack"]
+	path = sources/manus-ai-skill-pack
+	url = https://github.com/belentani7/manus-ai-skill-pack.git
+
+[submodule "sources/comfyui-json-compiler"]
+	path = sources/comfyui-json-compiler
+	url = https://github.com/belentani7/comfyui-json-compiler.git
+
+[submodule "sources/qbp-core"]
+	path = sources/qbp-core
+	url = https://github.com/belentani7/qbp-core.git
+
+[submodule "sources/pbr-validator"]
+	path = sources/pbr-validator
+	url = https://github.com/belentani7/pbr-validator.git
+
+[submodule "sources/gpu-cost-optimizer"]
+	path = sources/gpu-cost-optimizer
+	url = https://github.com/belentani7/gpu-cost-optimizer.git
+
+[submodule "sources/llm-vfx-orchestrator"]
+	path = sources/llm-vfx-orchestrator
+	url = https://github.com/belentani7/llm-vfx-orchestrator.git
+
+[submodule "sources/cinematic-prompt-formatter"]
+	path = sources/cinematic-prompt-formatter
+	url = https://github.com/belentani7/cinematic-prompt-formatter.git
+
+[submodule "sources/ai-command-center-level10"]
+	path = sources/ai-command-center-level10
+	url = https://github.com/belentani7/ai-command-center-level10.git
+
+[submodule "sources/evidence-ledger"]
+	path = sources/evidence-ledger
+	url = https://github.com/belentani7/evidence-ledger.git
+
+[submodule "sources/nataliamarinho"]
+	path = sources/nataliamarinho
+	url = https://github.com/belentani7/nataliamarinho.git
+
+[submodule "sources/Netlify"]
+	path = sources/Netlify
+	url = https://github.com/belentani7/Netlify.git
+
+[submodule "sources/duck-apps"]
+	path = sources/duck-apps
+	url = https://github.com/belentani7/duck-apps.git
+
+[submodule "sources/entrenador-jorge-bcn"]
+	path = sources/entrenador-jorge-bcn
+	url = https://github.com/belentani7/entrenador-jorge-bcn.git
+
+[submodule "sources/Belentani.cv-ai"]
+	path = sources/Belentani.cv-ai
+	url = https://github.com/belentani7/Belentani.cv-ai.git
+
+[submodule "sources/Duck-Omega"]
+	path = sources/Duck-Omega
+	url = https://github.com/belentani7/Duck-Omega.git
+
+[submodule "sources/harmonia-hub"]
+	path = sources/harmonia-hub
+	url = https://github.com/belentani7/harmonia-hub.git
+
+[submodule "sources/belentaniexperience"]
+	path = sources/belentaniexperience
+	url = https://github.com/belentani7/belentaniexperience.git
+
+[submodule "sources/DUCK-ZION-PREMIUM"]
+	path = sources/DUCK-ZION-PREMIUM
+	url = https://github.com/belentani7/DUCK-ZION-PREMIUM.git
+
+[submodule "sources/CARQUIDEC"]
+	path = sources/CARQUIDEC
+	url = https://github.com/belentani7/CARQUIDEC.git
+
+[submodule "sources/registro-proyectos-2026"]
+	path = sources/registro-proyectos-2026
+	url = https://github.com/belentani7/registro-proyectos-2026.git
+
+[submodule "sources/DuckHTML"]
+	path = sources/DuckHTML
+	url = https://github.com/belentani7/DuckHTML.git
+
+[submodule "sources/duck-zion-apex-public"]
+	path = sources/duck-zion-apex-public
+	url = https://github.com/belentani7/duck-zion-apex-public.git
+
+[submodule "sources/Oculus-Tv"]
+	path = sources/Oculus-Tv
+	url = https://github.com/belentani7/Oculus-Tv.git
+
+[submodule "sources/rh-fiscal-ultra-elite"]
+	path = sources/rh-fiscal-ultra-elite
+	url = https://github.com/belentani7/rh-fiscal-ultra-elite.git
+
+[submodule "sources/Duck-Deck"]
+	path = sources/Duck-Deck
+	url = https://github.com/belentani7/Duck-Deck.git
+
+[submodule "sources/proofmesh"]
+	path = sources/proofmesh
+	url = https://github.com/belentani7/proofmesh.git
+
+[submodule "sources/omega-max-duck"]
+	path = sources/omega-max-duck
+	url = https://github.com/belentani7/omega-max-duck.git
+
+[submodule "sources/local-agent"]
+	path = sources/local-agent
+	url = https://github.com/belentani7/local-agent.git

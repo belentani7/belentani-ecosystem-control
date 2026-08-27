@@ -1,0 +1,1695 @@
+{
+  "generado_utc": "2026-08-27T04:58:40+00:00",
+  "alcance": "Repositorios propios de la cuenta autenticada; catálogo generado a partir de metadatos de GitHub y clones superficiales. No se incorporan contenidos de archivos .env.",
+  "total_repositorios": 65,
+  "publicos": 63,
+  "privados": 2,
+  "archivados": 2,
+  "con_readme": 50,
+  "con_archivos_entorno": 6,
+  "por_area": {
+    "Automatización y herramientas": 2,
+    "Creative technology": 18,
+    "IA y agentes": 14,
+    "Por clasificar": 10,
+    "Trust & Safety": 3,
+    "Web y producto": 18
+  },
+  "tecnologias_detectadas": {
+    "GitHub Actions": 40,
+    "React": 28,
+    "Tailwind CSS": 27,
+    "Next.js": 24,
+    "Vite": 22,
+    "Expo / React Native": 2,
+    "Docker": 2
+  },
+  "repositorios": [
+    {
+      "repositorio": "belentani7/Maod-abertas",
+      "url": "https://github.com/belentani7/Maod-abertas",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-27T04:45:54Z",
+      "actualizado": "2026-08-27T04:45:55Z",
+      "ultimo_push": "2026-08-27T04:45:55Z",
+      "lenguaje_principal": "Sin lenguaje",
+      "tamano_kb": 0,
+      "descripcion": "",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/belentani-local",
+      "url": "https://github.com/belentani7/belentani-local",
+      "visibilidad": "privado",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-27T04:17:54Z",
+      "actualizado": "2026-08-27T04:19:11Z",
+      "ultimo_push": "2026-08-27T04:18:34Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 0,
+      "descripcion": "",
+      "topicos": [],
+      "titulo_readme": "Belentani",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/aion",
+      "url": "https://github.com/belentani7/aion",
+      "visibilidad": "privado",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-27T04:09:57Z",
+      "actualizado": "2026-08-27T04:11:05Z",
+      "ultimo_push": "2026-08-27T04:10:26Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 0,
+      "descripcion": "",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/duck-unified-master",
+      "url": "https://github.com/belentani7/duck-unified-master",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-26T23:01:33Z",
+      "actualizado": "2026-08-26T23:02:06Z",
+      "ultimo_push": "2026-08-26T23:01:41Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 22535,
+      "descripcion": "DUCK Unified Master - Consolidação completa do ecossistema DUCK (9 repos, 1838 arquivos)",
+      "topicos": [],
+      "titulo_readme": "🦆 DUCK STUDIO PLATFORM — Ecossistema Completo",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json",
+        "Dockerfile",
+        "docker-compose.yml"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Expo / React Native",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [
+        ".env.example"
+      ],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/Cruzando-el-charco",
+      "url": "https://github.com/belentani7/Cruzando-el-charco",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-07T07:57:52Z",
+      "actualizado": "2026-08-26T20:01:34Z",
+      "ultimo_push": "2026-08-26T19:19:11Z",
+      "lenguaje_principal": "JavaScript",
+      "tamano_kb": 8704,
+      "descripcion": "Cruzando el Charco, impulsado por noiacore.com y creado por Pedro Belentani, es un portal gratuito y confidencial de acogida, supervivencia y arraigo para hombres migrantes LGBT+ en L'Hospitalet y Barcelona. Información directa y práctica sobre papeles, salud, vivienda y comunidad.",
+      "topicos": [
+        "accessibility",
+        "lgbtq",
+        "migration",
+        "multilingual",
+        "nextjs",
+        "privacy"
+      ],
+      "titulo_readme": "Cruzando el Charco",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/jvictorbarbosa",
+      "url": "https://github.com/belentani7/jvictorbarbosa",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-26T06:46:44Z",
+      "actualizado": "2026-08-26T06:46:45Z",
+      "ultimo_push": "2026-08-26T06:46:45Z",
+      "lenguaje_principal": "Sin lenguaje",
+      "tamano_kb": 0,
+      "descripcion": "",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/fashion-stylist-ai",
+      "url": "https://github.com/belentani7/fashion-stylist-ai",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-26T02:57:09Z",
+      "actualizado": "2026-08-26T02:57:10Z",
+      "ultimo_push": "2026-08-26T02:57:10Z",
+      "lenguaje_principal": "Sin lenguaje",
+      "tamano_kb": 0,
+      "descripcion": "",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/duck-music-lab",
+      "url": "https://github.com/belentani7/duck-music-lab",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-26T01:02:11Z",
+      "actualizado": "2026-08-26T02:47:00Z",
+      "ultimo_push": "2026-08-26T02:45:26Z",
+      "lenguaje_principal": "Shell",
+      "tamano_kb": 8,
+      "descripcion": "",
+      "topicos": [],
+      "titulo_readme": "🦆 DUCK Music Lab",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "React",
+        "Vite"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/belentani7-gestaltAI",
+      "url": "https://github.com/belentani7/belentani7-gestaltAI",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-26T02:16:35Z",
+      "actualizado": "2026-08-26T02:17:19Z",
+      "ultimo_push": "2026-08-26T02:17:06Z",
+      "lenguaje_principal": "Sin lenguaje",
+      "tamano_kb": 8,
+      "descripcion": "",
+      "topicos": [],
+      "titulo_readme": "gestaltAI",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/linguaforge",
+      "url": "https://github.com/belentani7/linguaforge",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-15T05:47:38Z",
+      "actualizado": "2026-08-25T22:23:07Z",
+      "ultimo_push": "2026-08-25T22:23:00Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 657,
+      "descripcion": "Forja linguistica: herramientas de traduccion y adaptacion multilingue.",
+      "topicos": [],
+      "titulo_readme": "🌐 Deployment Mirrors",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/ManosAbiertas",
+      "url": "https://github.com/belentani7/ManosAbiertas",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-23T18:16:53Z",
+      "actualizado": "2026-08-25T22:23:04Z",
+      "ultimo_push": "2026-08-25T22:22:45Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 2390,
+      "descripcion": "Plataforma educativa gratuita: cursos IA/Office, creador CV, guías derechos y recursos para migrantes y comunidades.",
+      "topicos": [],
+      "titulo_readme": "🌐 Deployment Mirrors",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/duck-studio-suite",
+      "url": "https://github.com/belentani7/duck-studio-suite",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-22T13:09:14Z",
+      "actualizado": "2026-08-25T21:25:39Z",
+      "ultimo_push": "2026-08-25T21:25:34Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 166,
+      "descripcion": "Duck Studio Suite - suite integrada de produccion musical web.",
+      "topicos": [],
+      "titulo_readme": "Duck Studio Suite",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/duck-belentani-os-audited-2026-08-23",
+      "url": "https://github.com/belentani7/duck-belentani-os-audited-2026-08-23",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-22T22:33:37Z",
+      "actualizado": "2026-08-25T21:25:37Z",
+      "ultimo_push": "2026-08-25T21:25:33Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 374,
+      "descripcion": "DUCK Belentani OS - snapshot auditado 2026-08-23 del sistema operativo creativo.",
+      "topicos": [],
+      "titulo_readme": "DUCK Belentani OS — snapshot auditado 2026-08-23",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/ivy-la-vie",
+      "url": "https://github.com/belentani7/ivy-la-vie",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-25T19:10:15Z",
+      "actualizado": "2026-08-25T21:29:42Z",
+      "ultimo_push": "2026-08-25T19:13:57Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 42085,
+      "descripcion": "IVY LA VIE — queer photoshoot project and visual portfolio.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/belentani7",
+      "url": "https://github.com/belentani7/belentani7",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-11T23:12:18Z",
+      "actualizado": "2026-08-25T19:13:58Z",
+      "ultimo_push": "2026-08-25T19:13:44Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 764,
+      "descripcion": "Belentani + NOIACORE | Frontend, creative technology and educational platforms",
+      "topicos": [
+        "accessibility",
+        "creative-coding",
+        "frontend",
+        "portfolio",
+        "noiacore"
+      ],
+      "titulo_readme": "Pedro Belentani",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/ManosAbiertas-backup-v1",
+      "url": "https://github.com/belentani7/ManosAbiertas-backup-v1",
+      "visibilidad": "publico",
+      "archivado": true,
+      "fork": false,
+      "creado": "2026-08-04T17:45:13Z",
+      "actualizado": "2026-08-25T05:59:50Z",
+      "ultimo_push": "2026-08-25T04:35:11Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 12502,
+      "descripcion": "Plataforma educativa multilingue con cursos gratuitos, CV guiado, asistentes offline y accesibilidad.",
+      "topicos": [
+        "accessibility",
+        "education",
+        "multilingual",
+        "nextjs",
+        "pwa",
+        "typescript"
+      ],
+      "titulo_readme": "",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/belentani_Omega",
+      "url": "https://github.com/belentani7/belentani_Omega",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-07-10T12:44:02Z",
+      "actualizado": "2026-08-23T14:26:09Z",
+      "ultimo_push": "2026-08-25T01:18:06Z",
+      "lenguaje_principal": "JavaScript",
+      "tamano_kb": 11565,
+      "descripcion": "Artist ecosystem",
+      "topicos": [],
+      "titulo_readme": "belentaniOmega",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/duck-ecosystem",
+      "url": "https://github.com/belentani7/duck-ecosystem",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T08:50:29Z",
+      "actualizado": "2026-08-25T20:26:16Z",
+      "ultimo_push": "2026-08-24T20:21:10Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 449,
+      "descripcion": "Ecosistema DUCK - herramientas, GUIs y apps del estudio creativo DUCK.",
+      "topicos": [],
+      "titulo_readme": "DuckOS RnF — execução local e pacote Windows",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/duck-2026",
+      "url": "https://github.com/belentani7/duck-2026",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T11:11:33Z",
+      "actualizado": "2026-08-25T20:26:17Z",
+      "ultimo_push": "2026-08-24T13:05:32Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 4585,
+      "descripcion": "DUCK 2026 - iteracion anual del ecosistema DUCK.",
+      "topicos": [],
+      "titulo_readme": "DUCK SYSTEM 2026",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/duck-full-studio-pro",
+      "url": "https://github.com/belentani7/duck-full-studio-pro",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T09:22:55Z",
+      "actualizado": "2026-08-25T20:26:19Z",
+      "ultimo_push": "2026-08-24T13:05:23Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 1280,
+      "descripcion": "DUCK Full Studio Pro - FL Studio Ecosystem & Vault (Audited 10/10)",
+      "topicos": [],
+      "titulo_readme": "DUCK Full Studio Pro",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/Steven-renovation",
+      "url": "https://github.com/belentani7/Steven-renovation",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-10T09:11:57Z",
+      "actualizado": "2026-08-24T12:10:14Z",
+      "ultimo_push": "2026-08-24T12:08:56Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 5793,
+      "descripcion": "Este proyecto contiene la estructura local de una web comercial para servicios de reformas. La carpeta agrupa variantes HTML, recursos visuales, vídeos y documentación breve preparada para organizar el material antes de subirlo a GitHub.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/judas-experience",
+      "url": "https://github.com/belentani7/judas-experience",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:52:02Z",
+      "actualizado": "2026-08-24T12:12:15Z",
+      "ultimo_push": "2026-08-24T12:08:52Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 5609,
+      "descripcion": "Proyecto Judas - experiencia musical demo",
+      "topicos": [],
+      "titulo_readme": "JUDAS EXPERIENCE",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/mimo-companion",
+      "url": "https://github.com/belentani7/mimo-companion",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:52:20Z",
+      "actualizado": "2026-08-24T11:56:47Z",
+      "ultimo_push": "2026-08-24T11:56:00Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 14,
+      "descripcion": "PWA companion application",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/meta-skill",
+      "url": "https://github.com/belentani7/meta-skill",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-07-20T16:09:35Z",
+      "actualizado": "2026-08-24T11:56:01Z",
+      "ultimo_push": "2026-08-24T11:55:56Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 37,
+      "descripcion": "Universal router and token budget guard for Claude Code",
+      "topicos": [
+        "ai-agents",
+        "claude-code",
+        "llm",
+        "routing",
+        "token-budget"
+      ],
+      "titulo_readme": "🇧🇷Meta-Skill",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/claude-skills-pack",
+      "url": "https://github.com/belentani7/claude-skills-pack",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:51:37Z",
+      "actualizado": "2026-08-24T11:55:56Z",
+      "ultimo_push": "2026-08-24T11:55:53Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 72,
+      "descripcion": "20 production-ready skills for AI coding assistants.",
+      "topicos": [],
+      "titulo_readme": "Clone",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/belentani-omega-template",
+      "url": "https://github.com/belentani7/belentani-omega-template",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:02:25Z",
+      "actualizado": "2026-08-24T11:57:13Z",
+      "ultimo_push": "2026-08-24T11:55:50Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 5126,
+      "descripcion": "BELENTANI OMEGA: Plantilla de experiencia web inmersiva y canon conceptual.",
+      "topicos": [],
+      "titulo_readme": "BELENTANI OMEGA // Template & Digital Experience",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/arte-que-veste",
+      "url": "https://github.com/belentani7/arte-que-veste",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T21:56:41Z",
+      "actualizado": "2026-08-24T11:56:00Z",
+      "ultimo_push": "2026-08-24T11:55:46Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 842,
+      "descripcion": "Arte Que Veste - moda autoral y arte vestible; catalogo y tienda creativa.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/judas-omega-static",
+      "url": "https://github.com/belentani7/judas-omega-static",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-23T22:52:36Z",
+      "actualizado": "2026-08-24T11:56:14Z",
+      "ultimo_push": "2026-08-24T11:55:14Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 9,
+      "descripcion": "JUDAS OMEGA - storyboard cinematografico estatico",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/heyduck",
+      "url": "https://github.com/belentani7/heyduck",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-07-16T18:32:17Z",
+      "actualizado": "2026-08-23T16:12:56Z",
+      "ultimo_push": "2026-08-23T16:12:37Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 58652,
+      "descripcion": "HEYDUCK - hub web del universo DUCK: apps, musica y herramientas de produccion.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/Belentani",
+      "url": "https://github.com/belentani7/Belentani",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-07-31T11:40:14Z",
+      "actualizado": "2026-08-23T14:47:18Z",
+      "ultimo_push": "2026-08-23T14:46:30Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 484,
+      "descripcion": "NOIACORE LAB — plataforma digital de Pedro Belentani: catálogo, agente, automatización, observabilidad y diseño cinematográfico.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/oss-compass",
+      "url": "https://github.com/belentani7/oss-compass",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:58:18Z",
+      "actualizado": "2026-08-23T14:21:52Z",
+      "ultimo_push": "2026-08-23T14:21:42Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 95,
+      "descripcion": "Universal validation envelopes with auditable 2-of-3 node confirmation",
+      "topicos": [
+        "ai-safety",
+        "distributed-systems",
+        "open-source",
+        "python",
+        "validation"
+      ],
+      "titulo_readme": "OSS Compass",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Trust & Safety"
+    },
+    {
+      "repositorio": "belentani7/omniagent",
+      "url": "https://github.com/belentani7/omniagent",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:52:36Z",
+      "actualizado": "2026-08-23T14:21:43Z",
+      "ultimo_push": "2026-08-23T14:21:36Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 50,
+      "descripcion": "One CLI to route AI tasks to the best model.",
+      "topicos": [],
+      "titulo_readme": "OmniAgent",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/temporal-artifact-detector",
+      "url": "https://github.com/belentani7/temporal-artifact-detector",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:53:03Z",
+      "actualizado": "2026-08-23T14:21:39Z",
+      "ultimo_push": "2026-08-23T14:21:29Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 37,
+      "descripcion": "Python tool for detecting flickering and temporal artifacts in AI-generated videos.",
+      "topicos": [],
+      "titulo_readme": "Temporal Artifact Detector",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/latent-consistency-bench",
+      "url": "https://github.com/belentani7/latent-consistency-bench",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:52:10Z",
+      "actualizado": "2026-08-23T14:21:32Z",
+      "ultimo_push": "2026-08-23T14:21:21Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 37,
+      "descripcion": "Benchmarking visual consistency in AI-generated content.",
+      "topicos": [],
+      "titulo_readme": "Latent Consistency Bench",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/manus-ai-skill-pack",
+      "url": "https://github.com/belentani7/manus-ai-skill-pack",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-15T13:11:51Z",
+      "actualizado": "2026-08-23T14:22:31Z",
+      "ultimo_push": "2026-08-23T14:21:14Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 9710,
+      "descripcion": "Pack de skills para agentes de codigo (estilo Manus/Claude) listos para produccion.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/comfyui-json-compiler",
+      "url": "https://github.com/belentani7/comfyui-json-compiler",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:51:41Z",
+      "actualizado": "2026-08-23T14:21:51Z",
+      "ultimo_push": "2026-08-23T14:20:54Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 46,
+      "descripcion": "Translate natural language creative briefs into valid ComfyUI JSON workflows using LLMs.",
+      "topicos": [],
+      "titulo_readme": "Complete workflow ready to POST to ComfyUI API",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/qbp-core",
+      "url": "https://github.com/belentani7/qbp-core",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:52:58Z",
+      "actualizado": "2026-08-23T14:21:44Z",
+      "ultimo_push": "2026-08-23T14:20:48Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 40,
+      "descripcion": "Core SDK for the Quadrachy Binding Protocol - structured format for defining and validating.",
+      "topicos": [],
+      "titulo_readme": "With ML scoring backends (ArcFace, CLIP, LPIPS):",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Automatización y herramientas"
+    },
+    {
+      "repositorio": "belentani7/pbr-validator",
+      "url": "https://github.com/belentani7/pbr-validator",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:52:47Z",
+      "actualizado": "2026-08-23T14:20:56Z",
+      "ultimo_push": "2026-08-23T14:20:40Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 32,
+      "descripcion": "Validates PBR texture sets for correctness and compatibility with game engines.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/gpu-cost-optimizer",
+      "url": "https://github.com/belentani7/gpu-cost-optimizer",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:51:53Z",
+      "actualizado": "2026-08-23T14:21:22Z",
+      "ultimo_push": "2026-08-23T14:20:33Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 37,
+      "descripcion": "Optimize GPU compute costs in diffusion pipelines by up to 70%.",
+      "topicos": [],
+      "titulo_readme": "Profile a workflow on a specific GPU",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Automatización y herramientas"
+    },
+    {
+      "repositorio": "belentani7/llm-vfx-orchestrator",
+      "url": "https://github.com/belentani7/llm-vfx-orchestrator",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:52:15Z",
+      "actualizado": "2026-08-23T14:20:33Z",
+      "ultimo_push": "2026-08-23T14:20:26Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 35,
+      "descripcion": "Autonomous VFX pipeline orchestration using LLMs connected to ComfyUI APIs.",
+      "topicos": [],
+      "titulo_readme": "Run a pipeline with default config",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/cinematic-prompt-formatter",
+      "url": "https://github.com/belentani7/cinematic-prompt-formatter",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T14:51:31Z",
+      "actualizado": "2026-08-23T14:21:20Z",
+      "ultimo_push": "2026-08-23T14:20:19Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 46,
+      "descripcion": "Translate cinematic language into optimized prompts for Stable Diffusion, Flux, and SDXL models.",
+      "topicos": [],
+      "titulo_readme": "Single prompt",
+      "tiene_readme": true,
+      "manifiestos": [
+        "pyproject.toml"
+      ],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/duck-lab",
+      "url": "https://github.com/belentani7/duck-lab",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-22T15:37:46Z",
+      "actualizado": "2026-08-25T20:26:21Z",
+      "ultimo_push": "2026-08-23T14:18:33Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 317,
+      "descripcion": "DUCK Lab - laboratorio de prototipos del universo DUCK/Zion.",
+      "topicos": [],
+      "titulo_readme": "Duck Lab",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [
+        ".env"
+      ],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/ai-command-center-level10",
+      "url": "https://github.com/belentani7/ai-command-center-level10",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T13:37:46Z",
+      "actualizado": "2026-08-25T21:58:06Z",
+      "ultimo_push": "2026-08-23T14:16:41Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 356,
+      "descripcion": "AI Command Center Level 10 - Unified Open Source Workspace",
+      "topicos": [],
+      "titulo_readme": "Manus Core Engine",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/evidence-ledger",
+      "url": "https://github.com/belentani7/evidence-ledger",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T09:37:13Z",
+      "actualizado": "2026-08-23T14:16:36Z",
+      "ultimo_push": "2026-08-23T14:16:24Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 133,
+      "descripcion": "Local-first evidence receipts for AI and Trust & Safety decisions",
+      "topicos": [
+        "ai-governance",
+        "audit-trail",
+        "llm-observability",
+        "open-source",
+        "trust-and-safety"
+      ],
+      "titulo_readme": "Evidence Ledger",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/nataliamarinho",
+      "url": "https://github.com/belentani7/nataliamarinho",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-06-18T10:02:31Z",
+      "actualizado": "2026-08-23T14:17:04Z",
+      "ultimo_push": "2026-08-23T14:16:07Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 724,
+      "descripcion": "Plataforma educativa multilingue para la profesora Natalia Marinho.",
+      "topicos": [],
+      "titulo_readme": "Natalia Marinho",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/Netlify",
+      "url": "https://github.com/belentani7/Netlify",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-04T18:11:16Z",
+      "actualizado": "2026-08-23T14:16:39Z",
+      "ultimo_push": "2026-08-23T14:15:58Z",
+      "lenguaje_principal": "JavaScript",
+      "tamano_kb": 2575,
+      "descripcion": "Next.js 16 frontend laboratory with image tooling, verified lint, tests and deployment previews.",
+      "topicos": [
+        "frontend",
+        "image-processing",
+        "nextjs",
+        "testing"
+      ],
+      "titulo_readme": "Next.js on Netlify Platform Starter",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/duck-apps",
+      "url": "https://github.com/belentani7/duck-apps",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T21:47:10Z",
+      "actualizado": "2026-08-25T21:58:10Z",
+      "ultimo_push": "2026-08-23T14:15:50Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 865,
+      "descripcion": "iDuck GUI + DUCK STATION (mobile) + DUCK FL STUDIO (DAW web) — apps ao vivo",
+      "topicos": [],
+      "titulo_readme": "DUCK APPS",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/entrenador-jorge-bcn",
+      "url": "https://github.com/belentani7/entrenador-jorge-bcn",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-15T07:22:20Z",
+      "actualizado": "2026-08-23T14:15:56Z",
+      "ultimo_push": "2026-08-23T14:15:43Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 1218,
+      "descripcion": "Empresa 100 generada con IA por Belentani",
+      "topicos": [],
+      "titulo_readme": "Entrenador Web Jorge · Barcelona",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/Belentani.cv-ai",
+      "url": "https://github.com/belentani7/Belentani.cv-ai",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-05T16:20:18Z",
+      "actualizado": "2026-08-23T14:16:03Z",
+      "ultimo_push": "2026-08-23T14:15:25Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 1722,
+      "descripcion": "📄 Belentani Document Studio - Crea CV, cartas y presentaciones con IA. 0.99€ pago único. . GDPR. AES-256. Hecho para todos.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [
+        ".env.example"
+      ],
+      "area_sugerida": "IA y agentes"
+    },
+    {
+      "repositorio": "belentani7/Duck-Omega",
+      "url": "https://github.com/belentani7/Duck-Omega",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-12T21:34:03Z",
+      "actualizado": "2026-08-23T14:15:31Z",
+      "ultimo_push": "2026-08-23T14:15:16Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 505,
+      "descripcion": "DUCK Omega - ecosistema artistico y productivo del proyecto Duck/Zion (Belentani).",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/harmonia-hub",
+      "url": "https://github.com/belentani7/harmonia-hub",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T09:57:31Z",
+      "actualizado": "2026-08-23T14:15:14Z",
+      "ultimo_push": "2026-08-23T14:14:58Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 1194,
+      "descripcion": "Harmonia Hub - plataforma de coordinacion y bienestar.",
+      "topicos": [],
+      "titulo_readme": "Expo Mobile Template",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json",
+        "Dockerfile",
+        "docker-compose.yml"
+      ],
+      "senales_tecnologicas": [
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Expo / React Native",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/belentaniexperience",
+      "url": "https://github.com/belentani7/belentaniexperience",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-15T14:49:01Z",
+      "actualizado": "2026-08-23T14:15:27Z",
+      "ultimo_push": "2026-08-23T14:14:50Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 512,
+      "descripcion": "Portfolio premium de Pedro Belentani: Trust & Safety, sistemas de IA, automatización, ingeniería de software y creative tech.",
+      "topicos": [
+        "artificial-intelligence",
+        "automation",
+        "creative-tech",
+        "portfolio",
+        "react",
+        "software-engineering",
+        "trust-and-safety",
+        "typescript",
+        "vite",
+        "gestalt-design"
+      ],
+      "titulo_readme": "Belentani Experience",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Trust & Safety"
+    },
+    {
+      "repositorio": "belentani7/DUCK-ZION-PREMIUM",
+      "url": "https://github.com/belentani7/DUCK-ZION-PREMIUM",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-16T16:16:56Z",
+      "actualizado": "2026-08-25T21:29:21Z",
+      "ultimo_push": "2026-08-23T11:01:28Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 207999,
+      "descripcion": "DUCK/BELENTANI Canal Zion — Studio OS, Ecosystem y Toolkit de producción musical, afinación y mastering.",
+      "topicos": [],
+      "titulo_readme": "DUCK / BELENTANI · CANAL ZION · PAQUETE PREMIUM",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/CARQUIDEC",
+      "url": "https://github.com/belentani7/CARQUIDEC",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-02T15:13:23Z",
+      "actualizado": "2026-08-23T05:14:56Z",
+      "ultimo_push": "2026-08-23T05:13:20Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 517570,
+      "descripcion": "Repositorio oficial de CARQUIDEC. Arquitectura de vanguardia, diseño paramétrico y soluciones bioclimáticas impulsadas por inteligencia artificial y optimización energética.",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/registro-proyectos-2026",
+      "url": "https://github.com/belentani7/registro-proyectos-2026",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T09:35:38Z",
+      "actualizado": "2026-08-23T04:14:55Z",
+      "ultimo_push": "2026-08-23T04:14:30Z",
+      "lenguaje_principal": "Sin lenguaje",
+      "tamano_kb": 51,
+      "descripcion": "Registro maestro de proyectos Pedro Belentani 2026",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": false,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/DuckHTML",
+      "url": "https://github.com/belentani7/DuckHTML",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-22T14:52:16Z",
+      "actualizado": "2026-08-23T08:10:21Z",
+      "ultimo_push": "2026-08-23T04:14:24Z",
+      "lenguaje_principal": "HTML",
+      "tamano_kb": 21,
+      "descripcion": "Experimentos HTML del universo DUCK - interfaces y prototipos rapidos.",
+      "topicos": [],
+      "titulo_readme": "Duck+ — Catálogo do ecossistema",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/duck-zion-apex-public",
+      "url": "https://github.com/belentani7/duck-zion-apex-public",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T14:56:25Z",
+      "actualizado": "2026-08-23T04:13:20Z",
+      "ultimo_push": "2026-08-23T04:13:07Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 534,
+      "descripcion": "DUCK ZION Apex — professional vocal production platform; audited snapshot, gate currently 57/60",
+      "topicos": [],
+      "titulo_readme": "DUCK ZION Apex",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/Oculus-Tv",
+      "url": "https://github.com/belentani7/Oculus-Tv",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-06T08:53:30Z",
+      "actualizado": "2026-08-23T04:13:36Z",
+      "ultimo_push": "2026-08-23T04:13:00Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 1531,
+      "descripcion": "Repositório multilíngue de código aberto com livros e materiais audiovisuais educativos.",
+      "topicos": [
+        "accessibility",
+        "education",
+        "multilingual",
+        "open-source"
+      ],
+      "titulo_readme": "Manos Abiertas",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [
+        ".env.example"
+      ],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/tender-words-connect",
+      "url": "https://github.com/belentani7/tender-words-connect",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-03T01:05:59Z",
+      "actualizado": "2026-08-23T08:10:23Z",
+      "ultimo_push": "2026-08-23T04:12:57Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 700,
+      "descripcion": "Mapa de comprension y herramientas sobre TLP, vinculos y gestion emocional.",
+      "topicos": [],
+      "titulo_readme": "ABRAZO",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [
+        ".env",
+        ".env.example"
+      ],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/abrazo-tender-words",
+      "url": "https://github.com/belentani7/abrazo-tender-words",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-03T01:02:56Z",
+      "actualizado": "2026-08-23T04:13:29Z",
+      "ultimo_push": "2026-08-23T04:12:53Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 487,
+      "descripcion": "Mapa de comprensión y herramientas sobre TLP, dinámicas de vínculo y gestión de límites emocionales. Del caos a la claridad.",
+      "topicos": [],
+      "titulo_readme": "ABRAZO",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [
+        ".env",
+        ".env.example"
+      ],
+      "area_sugerida": "Web y producto"
+    },
+    {
+      "repositorio": "belentani7/rh-fiscal-ultra-elite",
+      "url": "https://github.com/belentani7/rh-fiscal-ultra-elite",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T10:57:04Z",
+      "actualizado": "2026-08-23T08:10:26Z",
+      "ultimo_push": "2026-08-23T04:10:30Z",
+      "lenguaje_principal": "Python",
+      "tamano_kb": 37,
+      "descripcion": "Suite RH/fiscal con automatizacion de calculos e informes.",
+      "topicos": [],
+      "titulo_readme": "RH Fiscal Ultra - Ecosistema de Inteligencia Tributaria",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Por clasificar"
+    },
+    {
+      "repositorio": "belentani7/Duck-Deck",
+      "url": "https://github.com/belentani7/Duck-Deck",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-19T12:37:04Z",
+      "actualizado": "2026-08-23T04:10:38Z",
+      "ultimo_push": "2026-08-23T04:10:25Z",
+      "lenguaje_principal": "Sin lenguaje",
+      "tamano_kb": 5,
+      "descripcion": "Music production assets on Html",
+      "topicos": [],
+      "titulo_readme": "",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/proofmesh",
+      "url": "https://github.com/belentani7/proofmesh",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-18T09:24:00Z",
+      "actualizado": "2026-08-22T09:16:35Z",
+      "ultimo_push": "2026-08-22T09:16:28Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 241,
+      "descripcion": "Evidence-first change intelligence with strict 6-criteria, 3-node, 3-level gates",
+      "topicos": [
+        "ai-safety",
+        "code-audit",
+        "developer-tools",
+        "open-source",
+        "typescript"
+      ],
+      "titulo_readme": "ProofMesh",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Trust & Safety"
+    },
+    {
+      "repositorio": "belentani7/omega-max-duck",
+      "url": "https://github.com/belentani7/omega-max-duck",
+      "visibilidad": "publico",
+      "archivado": false,
+      "fork": false,
+      "creado": "2026-08-22T07:03:00Z",
+      "actualizado": "2026-08-25T21:29:20Z",
+      "ultimo_push": "2026-08-22T07:25:43Z",
+      "lenguaje_principal": "TypeScript",
+      "tamano_kb": 271,
+      "descripcion": "DUCK Ω-MAX Studio OS — CRM, producción musical, operaciones y automatizaciones para clientes y proyectos.",
+      "topicos": [],
+      "titulo_readme": "DUCK Ω-MAX Studio OS",
+      "tiene_readme": true,
+      "manifiestos": [
+        "package.json"
+      ],
+      "senales_tecnologicas": [
+        "Next.js",
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "Creative technology"
+    },
+    {
+      "repositorio": "belentani7/local-agent",
+      "url": "https://github.com/belentani7/local-agent",
+      "visibilidad": "publico",
+      "archivado": true,
+      "fork": false,
+      "creado": "2026-08-02T17:29:44Z",
+      "actualizado": "2026-08-12T01:47:43Z",
+      "ultimo_push": "2026-08-02T18:45:02Z",
+      "lenguaje_principal": "PowerShell",
+      "tamano_kb": 158,
+      "descripcion": "Archived reference: Windows OpenManus/Ollama setup. Preserved for documentation; current work uses remote providers on modest hardware.",
+      "topicos": [
+        "archived-reference",
+        "documentation",
+        "ollama",
+        "openmanus",
+        "windows"
+      ],
+      "titulo_readme": "Local Agent",
+      "tiene_readme": true,
+      "manifiestos": [],
+      "senales_tecnologicas": [],
+      "archivos_entorno_detectados": [],
+      "area_sugerida": "IA y agentes"
+    }
+  ]
+}
