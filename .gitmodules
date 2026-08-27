@@ -233,3 +233,7 @@
 [submodule "sources/local-agent"]
 	path = sources/local-agent
 	url = https://github.com/belentani7/local-agent.git
+
+[submodule "sources/uaol-machine-realm"]
+	path = sources/uaol-machine-realm
+	url = https://github.com/belentani7/uaol-machine-realm.git

@@ -1,0 +1,57 @@
+{
+  "generado_utc": "2026-08-27T05:12:35+00:00",
+  "linea_base_repositorios": 65,
+  "ronda_2_repositorios": 67,
+  "altas": [
+    {
+      "repositorio": "belentani7/belentani-ecosystem-control",
+      "url": "https://github.com/belentani7/belentani-ecosystem-control",
+      "privado": true,
+      "archivado": false,
+      "ultimo_push": "2026-08-27T05:08:46Z",
+      "actualizado": "2026-08-27T05:09:28Z",
+      "lenguaje": "Shell",
+      "tamano_kb": 0
+    },
+    {
+      "repositorio": "belentani7/uaol-machine-realm",
+      "url": "https://github.com/belentani7/uaol-machine-realm",
+      "privado": true,
+      "archivado": false,
+      "ultimo_push": "2026-08-27T05:12:01Z",
+      "actualizado": "2026-08-27T05:11:59Z",
+      "lenguaje": "Sin lenguaje",
+      "tamano_kb": 0
+    }
+  ],
+  "desaparecidos": [],
+  "cambios_en_repositorios_existentes": [
+    {
+      "repositorio": "belentani7/aion",
+      "url": "https://github.com/belentani7/aion",
+      "cambios": {
+        "tamano_kb": {
+          "antes": 0,
+          "ahora": 247
+        }
+      }
+    }
+  ],
+  "conteo_cambios_por_campo": {
+    "tamano_kb": 1
+  },
+  "totales_actuales": {
+    "publicos": 63,
+    "privados": 4,
+    "archivados": 2,
+    "lenguajes": {
+      "TypeScript": 22,
+      "HTML": 20,
+      "Python": 12,
+      "Sin lenguaje": 7,
+      "JavaScript": 3,
+      "Shell": 2,
+      "PowerShell": 1
+    }
+  }
+}

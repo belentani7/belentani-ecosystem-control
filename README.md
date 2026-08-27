@@ -41,3 +41,14 @@ El repositorio puede clonarse con submódulos. Para obtener únicamente las fuen
 ## Límites
 
 Este repositorio no sustituye controles de acceso, auditorías de código en profundidad, asesoramiento jurídico, ni la rotación real de credenciales. Tampoco atribuye presencia a perfiles externos cuando no fue posible verificar su titularidad o contenido público.
+
+## Segunda ronda incremental
+
+La **Ronda 2** se conserva como una adición versionada, sin reemplazar los entregables anteriores. El informe, datos de comparación y estados de verificación se encuentran en [`docs/07-ronda-2-incremental.md`](docs/07-ronda-2-incremental.md) y [`data/ronda-2/`](data/ronda-2/) Esta ronda incorpora la detección y evaluación inicial de `uaol-machine-realm`, registrada como plataforma privada de simulación operacional con límites explícitos frente al control físico.
+
+| Entrega incremental | Ubicación |
+|---|---|
+| Informe de segunda ronda | [`docs/07-ronda-2-incremental.md`](docs/07-ronda-2-incremental.md) |
+| Comparación de inventarios | [`data/ronda-2/comparacion.md`](data/ronda-2/comparacion.md) |
+| Estados HTTP de puntos públicos | [`data/ronda-2/estado_puntos_publicos.txt`](data/ronda-2/estado_puntos_publicos.txt) |
+| Referencia de UAOL | [`sources/uaol-machine-realm`](sources/uaol-machine-realm) |

@@ -1,0 +1,10 @@
+### https://github.com/belentani7
+codigo_final=200 tipo=text/html; charset=utf-8 url_final=https://github.com/belentani7
+### https://belentani.es/
+codigo_final=200 tipo=text/html; charset=utf-8 url_final=https://belentani.es/
+### http://www.belentani.eu/
+codigo_final=200 tipo=text/html; charset=UTF-8 url_final=http://www.belentani.eu/
+### https://judas-experience-13898.buildaispace.app/
+codigo_final=200 tipo=text/html; charset=utf-8 url_final=https://judas-experience-13898.buildaispace.app/
+### https://belentani.vercel.app/
+codigo_final=200 tipo=application/javascript; charset=utf-8 url_final=https://belentani.vercel.app/

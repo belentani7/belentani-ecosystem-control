@@ -1,0 +1,993 @@
+[
+  {
+    "createdAt": "2026-08-27T05:11:58Z",
+    "description": "",
+    "diskUsage": 0,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": true,
+    "nameWithOwner": "belentani7/uaol-machine-realm",
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-27T05:12:01Z",
+    "updatedAt": "2026-08-27T05:11:59Z",
+    "url": "https://github.com/belentani7/uaol-machine-realm"
+  },
+  {
+    "createdAt": "2026-08-27T05:08:43Z",
+    "description": "",
+    "diskUsage": 0,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": true,
+    "nameWithOwner": "belentani7/belentani-ecosystem-control",
+    "primaryLanguage": {
+      "name": "Shell"
+    },
+    "pushedAt": "2026-08-27T05:08:46Z",
+    "updatedAt": "2026-08-27T05:09:28Z",
+    "url": "https://github.com/belentani7/belentani-ecosystem-control"
+  },
+  {
+    "createdAt": "2026-08-27T04:45:54Z",
+    "description": "",
+    "diskUsage": 0,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Maod-abertas",
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-27T04:45:55Z",
+    "updatedAt": "2026-08-27T04:45:55Z",
+    "url": "https://github.com/belentani7/Maod-abertas"
+  },
+  {
+    "createdAt": "2026-08-27T04:17:54Z",
+    "description": "",
+    "diskUsage": 0,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": true,
+    "nameWithOwner": "belentani7/belentani-local",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-27T04:18:34Z",
+    "updatedAt": "2026-08-27T04:19:11Z",
+    "url": "https://github.com/belentani7/belentani-local"
+  },
+  {
+    "createdAt": "2026-08-27T04:09:57Z",
+    "description": "",
+    "diskUsage": 247,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": true,
+    "nameWithOwner": "belentani7/aion",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-27T04:10:26Z",
+    "updatedAt": "2026-08-27T04:11:05Z",
+    "url": "https://github.com/belentani7/aion"
+  },
+  {
+    "createdAt": "2026-08-26T23:01:33Z",
+    "description": "DUCK Unified Master - Consolidação completa do ecossistema DUCK (9 repos, 1838 arquivos)",
+    "diskUsage": 22535,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-unified-master",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-26T23:01:41Z",
+    "updatedAt": "2026-08-26T23:02:06Z",
+    "url": "https://github.com/belentani7/duck-unified-master"
+  },
+  {
+    "createdAt": "2026-08-07T07:57:52Z",
+    "description": "Cruzando el Charco, impulsado por noiacore.com y creado por Pedro Belentani, es un portal gratuito y confidencial de acogida, supervivencia y arraigo para hombres migrantes LGBT+ en L'Hospitalet y Barcelona. Información directa y práctica sobre papeles, salud, vivienda y comunidad.",
+    "diskUsage": 8704,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Cruzando-el-charco",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-26T19:19:11Z",
+    "updatedAt": "2026-08-26T20:01:34Z",
+    "url": "https://github.com/belentani7/Cruzando-el-charco"
+  },
+  {
+    "createdAt": "2026-08-26T06:46:44Z",
+    "description": "",
+    "diskUsage": 0,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/jvictorbarbosa",
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-26T06:46:45Z",
+    "updatedAt": "2026-08-26T06:46:45Z",
+    "url": "https://github.com/belentani7/jvictorbarbosa"
+  },
+  {
+    "createdAt": "2026-08-26T02:57:09Z",
+    "description": "",
+    "diskUsage": 0,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/fashion-stylist-ai",
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-26T02:57:10Z",
+    "updatedAt": "2026-08-26T02:57:10Z",
+    "url": "https://github.com/belentani7/fashion-stylist-ai"
+  },
+  {
+    "createdAt": "2026-08-26T01:02:11Z",
+    "description": "",
+    "diskUsage": 8,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-music-lab",
+    "primaryLanguage": {
+      "name": "Shell"
+    },
+    "pushedAt": "2026-08-26T02:45:26Z",
+    "updatedAt": "2026-08-26T02:47:00Z",
+    "url": "https://github.com/belentani7/duck-music-lab"
+  },
+  {
+    "createdAt": "2026-08-26T02:16:35Z",
+    "description": "",
+    "diskUsage": 8,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/belentani7-gestaltAI",
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-26T02:17:06Z",
+    "updatedAt": "2026-08-26T02:17:19Z",
+    "url": "https://github.com/belentani7/belentani7-gestaltAI"
+  },
+  {
+    "createdAt": "2026-08-15T05:47:38Z",
+    "description": "Forja linguistica: herramientas de traduccion y adaptacion multilingue.",
+    "diskUsage": 657,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/linguaforge",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-25T22:23:00Z",
+    "updatedAt": "2026-08-25T22:23:07Z",
+    "url": "https://github.com/belentani7/linguaforge"
+  },
+  {
+    "createdAt": "2026-08-23T18:16:53Z",
+    "description": "Plataforma educativa gratuita: cursos IA/Office, creador CV, guías derechos y recursos para migrantes y comunidades.",
+    "diskUsage": 2390,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/ManosAbiertas",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-25T22:22:45Z",
+    "updatedAt": "2026-08-25T22:23:04Z",
+    "url": "https://github.com/belentani7/ManosAbiertas"
+  },
+  {
+    "createdAt": "2026-08-22T13:09:14Z",
+    "description": "Duck Studio Suite - suite integrada de produccion musical web.",
+    "diskUsage": 166,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-studio-suite",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-25T21:25:34Z",
+    "updatedAt": "2026-08-25T21:25:39Z",
+    "url": "https://github.com/belentani7/duck-studio-suite"
+  },
+  {
+    "createdAt": "2026-08-22T22:33:37Z",
+    "description": "DUCK Belentani OS - snapshot auditado 2026-08-23 del sistema operativo creativo.",
+    "diskUsage": 374,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-belentani-os-audited-2026-08-23",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-25T21:25:33Z",
+    "updatedAt": "2026-08-25T21:25:37Z",
+    "url": "https://github.com/belentani7/duck-belentani-os-audited-2026-08-23"
+  },
+  {
+    "createdAt": "2026-08-25T19:10:15Z",
+    "description": "IVY LA VIE — queer photoshoot project and visual portfolio.",
+    "diskUsage": 42085,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/ivy-la-vie",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-25T19:13:57Z",
+    "updatedAt": "2026-08-25T21:29:42Z",
+    "url": "https://github.com/belentani7/ivy-la-vie"
+  },
+  {
+    "createdAt": "2026-08-11T23:12:18Z",
+    "description": "Belentani + NOIACORE | Frontend, creative technology and educational platforms",
+    "diskUsage": 764,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/belentani7",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-25T19:13:44Z",
+    "updatedAt": "2026-08-25T19:13:58Z",
+    "url": "https://github.com/belentani7/belentani7"
+  },
+  {
+    "createdAt": "2026-08-04T17:45:13Z",
+    "description": "Plataforma educativa multilingue con cursos gratuitos, CV guiado, asistentes offline y accesibilidad.",
+    "diskUsage": 12502,
+    "isArchived": true,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/ManosAbiertas-backup-v1",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-25T04:35:11Z",
+    "updatedAt": "2026-08-25T05:59:50Z",
+    "url": "https://github.com/belentani7/ManosAbiertas-backup-v1"
+  },
+  {
+    "createdAt": "2026-07-10T12:44:02Z",
+    "description": "Artist ecosystem",
+    "diskUsage": 11565,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/belentani_Omega",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-25T01:18:06Z",
+    "updatedAt": "2026-08-23T14:26:09Z",
+    "url": "https://github.com/belentani7/belentani_Omega"
+  },
+  {
+    "createdAt": "2026-08-18T08:50:29Z",
+    "description": "Ecosistema DUCK - herramientas, GUIs y apps del estudio creativo DUCK.",
+    "diskUsage": 449,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-ecosystem",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-24T20:21:10Z",
+    "updatedAt": "2026-08-25T20:26:16Z",
+    "url": "https://github.com/belentani7/duck-ecosystem"
+  },
+  {
+    "createdAt": "2026-08-18T11:11:33Z",
+    "description": "DUCK 2026 - iteracion anual del ecosistema DUCK.",
+    "diskUsage": 4585,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-2026",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T13:05:32Z",
+    "updatedAt": "2026-08-25T20:26:17Z",
+    "url": "https://github.com/belentani7/duck-2026"
+  },
+  {
+    "createdAt": "2026-08-18T09:22:55Z",
+    "description": "DUCK Full Studio Pro - FL Studio Ecosystem & Vault (Audited 10/10)",
+    "diskUsage": 1280,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-full-studio-pro",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T13:05:23Z",
+    "updatedAt": "2026-08-25T20:26:19Z",
+    "url": "https://github.com/belentani7/duck-full-studio-pro"
+  },
+  {
+    "createdAt": "2026-08-10T09:11:57Z",
+    "description": "Este proyecto contiene la estructura local de una web comercial para servicios de reformas. La carpeta agrupa variantes HTML, recursos visuales, vídeos y documentación breve preparada para organizar el material antes de subirlo a GitHub.",
+    "diskUsage": 5793,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Steven-renovation",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T12:08:56Z",
+    "updatedAt": "2026-08-24T12:10:14Z",
+    "url": "https://github.com/belentani7/Steven-renovation"
+  },
+  {
+    "createdAt": "2026-08-16T14:52:02Z",
+    "description": "Proyecto Judas - experiencia musical demo",
+    "diskUsage": 5609,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/judas-experience",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T12:08:52Z",
+    "updatedAt": "2026-08-24T12:12:15Z",
+    "url": "https://github.com/belentani7/judas-experience"
+  },
+  {
+    "createdAt": "2026-08-16T14:52:20Z",
+    "description": "PWA companion application",
+    "diskUsage": 14,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/mimo-companion",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T11:56:00Z",
+    "updatedAt": "2026-08-24T11:56:47Z",
+    "url": "https://github.com/belentani7/mimo-companion"
+  },
+  {
+    "createdAt": "2026-07-20T16:09:35Z",
+    "description": "Universal router and token budget guard for Claude Code",
+    "diskUsage": 37,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/meta-skill",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T11:55:56Z",
+    "updatedAt": "2026-08-24T11:56:01Z",
+    "url": "https://github.com/belentani7/meta-skill"
+  },
+  {
+    "createdAt": "2026-08-16T14:51:37Z",
+    "description": "20 production-ready skills for AI coding assistants.",
+    "diskUsage": 72,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/claude-skills-pack",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T11:55:53Z",
+    "updatedAt": "2026-08-24T11:55:56Z",
+    "url": "https://github.com/belentani7/claude-skills-pack"
+  },
+  {
+    "createdAt": "2026-08-16T14:02:25Z",
+    "description": "BELENTANI OMEGA: Plantilla de experiencia web inmersiva y canon conceptual.",
+    "diskUsage": 5126,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/belentani-omega-template",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T11:55:50Z",
+    "updatedAt": "2026-08-24T11:57:13Z",
+    "url": "https://github.com/belentani7/belentani-omega-template"
+  },
+  {
+    "createdAt": "2026-08-16T21:56:41Z",
+    "description": "Arte Que Veste - moda autoral y arte vestible; catalogo y tienda creativa.",
+    "diskUsage": 842,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/arte-que-veste",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T11:55:46Z",
+    "updatedAt": "2026-08-24T11:56:00Z",
+    "url": "https://github.com/belentani7/arte-que-veste"
+  },
+  {
+    "createdAt": "2026-08-23T22:52:36Z",
+    "description": "JUDAS OMEGA - storyboard cinematografico estatico",
+    "diskUsage": 9,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/judas-omega-static",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-24T11:55:14Z",
+    "updatedAt": "2026-08-24T11:56:14Z",
+    "url": "https://github.com/belentani7/judas-omega-static"
+  },
+  {
+    "createdAt": "2026-07-16T18:32:17Z",
+    "description": "HEYDUCK - hub web del universo DUCK: apps, musica y herramientas de produccion.",
+    "diskUsage": 58652,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/heyduck",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-23T16:12:37Z",
+    "updatedAt": "2026-08-23T16:12:56Z",
+    "url": "https://github.com/belentani7/heyduck"
+  },
+  {
+    "createdAt": "2026-07-31T11:40:14Z",
+    "description": "NOIACORE LAB — plataforma digital de Pedro Belentani: catálogo, agente, automatización, observabilidad y diseño cinematográfico.",
+    "diskUsage": 484,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Belentani",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:46:30Z",
+    "updatedAt": "2026-08-23T14:47:18Z",
+    "url": "https://github.com/belentani7/Belentani"
+  },
+  {
+    "createdAt": "2026-08-16T14:58:18Z",
+    "description": "Universal validation envelopes with auditable 2-of-3 node confirmation",
+    "diskUsage": 95,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/oss-compass",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:21:42Z",
+    "updatedAt": "2026-08-23T14:21:52Z",
+    "url": "https://github.com/belentani7/oss-compass"
+  },
+  {
+    "createdAt": "2026-08-16T14:52:36Z",
+    "description": "One CLI to route AI tasks to the best model.",
+    "diskUsage": 50,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/omniagent",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:21:36Z",
+    "updatedAt": "2026-08-23T14:21:43Z",
+    "url": "https://github.com/belentani7/omniagent"
+  },
+  {
+    "createdAt": "2026-08-16T14:53:03Z",
+    "description": "Python tool for detecting flickering and temporal artifacts in AI-generated videos.",
+    "diskUsage": 37,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/temporal-artifact-detector",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:21:29Z",
+    "updatedAt": "2026-08-23T14:21:39Z",
+    "url": "https://github.com/belentani7/temporal-artifact-detector"
+  },
+  {
+    "createdAt": "2026-08-16T14:52:10Z",
+    "description": "Benchmarking visual consistency in AI-generated content.",
+    "diskUsage": 37,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/latent-consistency-bench",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:21:21Z",
+    "updatedAt": "2026-08-23T14:21:32Z",
+    "url": "https://github.com/belentani7/latent-consistency-bench"
+  },
+  {
+    "createdAt": "2026-08-15T13:11:51Z",
+    "description": "Pack de skills para agentes de codigo (estilo Manus/Claude) listos para produccion.",
+    "diskUsage": 9710,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/manus-ai-skill-pack",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:21:14Z",
+    "updatedAt": "2026-08-23T14:22:31Z",
+    "url": "https://github.com/belentani7/manus-ai-skill-pack"
+  },
+  {
+    "createdAt": "2026-08-16T14:51:41Z",
+    "description": "Translate natural language creative briefs into valid ComfyUI JSON workflows using LLMs.",
+    "diskUsage": 46,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/comfyui-json-compiler",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:20:54Z",
+    "updatedAt": "2026-08-23T14:21:51Z",
+    "url": "https://github.com/belentani7/comfyui-json-compiler"
+  },
+  {
+    "createdAt": "2026-08-16T14:52:58Z",
+    "description": "Core SDK for the Quadrachy Binding Protocol - structured format for defining and validating.",
+    "diskUsage": 40,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/qbp-core",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:20:48Z",
+    "updatedAt": "2026-08-23T14:21:44Z",
+    "url": "https://github.com/belentani7/qbp-core"
+  },
+  {
+    "createdAt": "2026-08-16T14:52:47Z",
+    "description": "Validates PBR texture sets for correctness and compatibility with game engines.",
+    "diskUsage": 32,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/pbr-validator",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:20:40Z",
+    "updatedAt": "2026-08-23T14:20:56Z",
+    "url": "https://github.com/belentani7/pbr-validator"
+  },
+  {
+    "createdAt": "2026-08-16T14:51:53Z",
+    "description": "Optimize GPU compute costs in diffusion pipelines by up to 70%.",
+    "diskUsage": 37,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/gpu-cost-optimizer",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:20:33Z",
+    "updatedAt": "2026-08-23T14:21:22Z",
+    "url": "https://github.com/belentani7/gpu-cost-optimizer"
+  },
+  {
+    "createdAt": "2026-08-16T14:52:15Z",
+    "description": "Autonomous VFX pipeline orchestration using LLMs connected to ComfyUI APIs.",
+    "diskUsage": 35,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/llm-vfx-orchestrator",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:20:26Z",
+    "updatedAt": "2026-08-23T14:20:33Z",
+    "url": "https://github.com/belentani7/llm-vfx-orchestrator"
+  },
+  {
+    "createdAt": "2026-08-16T14:51:31Z",
+    "description": "Translate cinematic language into optimized prompts for Stable Diffusion, Flux, and SDXL models.",
+    "diskUsage": 46,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/cinematic-prompt-formatter",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T14:20:19Z",
+    "updatedAt": "2026-08-23T14:21:20Z",
+    "url": "https://github.com/belentani7/cinematic-prompt-formatter"
+  },
+  {
+    "createdAt": "2026-08-22T15:37:46Z",
+    "description": "DUCK Lab - laboratorio de prototipos del universo DUCK/Zion.",
+    "diskUsage": 317,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-lab",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:18:33Z",
+    "updatedAt": "2026-08-25T20:26:21Z",
+    "url": "https://github.com/belentani7/duck-lab"
+  },
+  {
+    "createdAt": "2026-08-18T13:37:46Z",
+    "description": "AI Command Center Level 10 - Unified Open Source Workspace",
+    "diskUsage": 356,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/ai-command-center-level10",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:16:41Z",
+    "updatedAt": "2026-08-25T21:58:06Z",
+    "url": "https://github.com/belentani7/ai-command-center-level10"
+  },
+  {
+    "createdAt": "2026-08-18T09:37:13Z",
+    "description": "Local-first evidence receipts for AI and Trust & Safety decisions",
+    "diskUsage": 133,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/evidence-ledger",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:16:24Z",
+    "updatedAt": "2026-08-23T14:16:36Z",
+    "url": "https://github.com/belentani7/evidence-ledger"
+  },
+  {
+    "createdAt": "2026-06-18T10:02:31Z",
+    "description": "Plataforma educativa multilingue para la profesora Natalia Marinho.",
+    "diskUsage": 724,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/nataliamarinho",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-23T14:16:07Z",
+    "updatedAt": "2026-08-23T14:17:04Z",
+    "url": "https://github.com/belentani7/nataliamarinho"
+  },
+  {
+    "createdAt": "2026-08-04T18:11:16Z",
+    "description": "Next.js 16 frontend laboratory with image tooling, verified lint, tests and deployment previews.",
+    "diskUsage": 2575,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Netlify",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-23T14:15:58Z",
+    "updatedAt": "2026-08-23T14:16:39Z",
+    "url": "https://github.com/belentani7/Netlify"
+  },
+  {
+    "createdAt": "2026-08-18T21:47:10Z",
+    "description": "iDuck GUI + DUCK STATION (mobile) + DUCK FL STUDIO (DAW web) — apps ao vivo",
+    "diskUsage": 865,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-apps",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-23T14:15:50Z",
+    "updatedAt": "2026-08-25T21:58:10Z",
+    "url": "https://github.com/belentani7/duck-apps"
+  },
+  {
+    "createdAt": "2026-08-15T07:22:20Z",
+    "description": "Empresa 100 generada con IA por Belentani",
+    "diskUsage": 1218,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/entrenador-jorge-bcn",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-23T14:15:43Z",
+    "updatedAt": "2026-08-23T14:15:56Z",
+    "url": "https://github.com/belentani7/entrenador-jorge-bcn"
+  },
+  {
+    "createdAt": "2026-08-05T16:20:18Z",
+    "description": "📄 Belentani Document Studio - Crea CV, cartas y presentaciones con IA. 0.99€ pago único. . GDPR. AES-256. Hecho para todos.",
+    "diskUsage": 1722,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Belentani.cv-ai",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:15:25Z",
+    "updatedAt": "2026-08-23T14:16:03Z",
+    "url": "https://github.com/belentani7/Belentani.cv-ai"
+  },
+  {
+    "createdAt": "2026-08-12T21:34:03Z",
+    "description": "DUCK Omega - ecosistema artistico y productivo del proyecto Duck/Zion (Belentani).",
+    "diskUsage": 505,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Duck-Omega",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:15:16Z",
+    "updatedAt": "2026-08-23T14:15:31Z",
+    "url": "https://github.com/belentani7/Duck-Omega"
+  },
+  {
+    "createdAt": "2026-08-18T09:57:31Z",
+    "description": "Harmonia Hub - plataforma de coordinacion y bienestar.",
+    "diskUsage": 1194,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/harmonia-hub",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:14:58Z",
+    "updatedAt": "2026-08-23T14:15:14Z",
+    "url": "https://github.com/belentani7/harmonia-hub"
+  },
+  {
+    "createdAt": "2026-08-15T14:49:01Z",
+    "description": "Portfolio premium de Pedro Belentani: Trust & Safety, sistemas de IA, automatización, ingeniería de software y creative tech.",
+    "diskUsage": 512,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/belentaniexperience",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T14:14:50Z",
+    "updatedAt": "2026-08-23T14:15:27Z",
+    "url": "https://github.com/belentani7/belentaniexperience"
+  },
+  {
+    "createdAt": "2026-08-16T16:16:56Z",
+    "description": "DUCK/BELENTANI Canal Zion — Studio OS, Ecosystem y Toolkit de producción musical, afinación y mastering.",
+    "diskUsage": 207999,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/DUCK-ZION-PREMIUM",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-23T11:01:28Z",
+    "updatedAt": "2026-08-25T21:29:21Z",
+    "url": "https://github.com/belentani7/DUCK-ZION-PREMIUM"
+  },
+  {
+    "createdAt": "2026-08-02T15:13:23Z",
+    "description": "Repositorio oficial de CARQUIDEC. Arquitectura de vanguardia, diseño paramétrico y soluciones bioclimáticas impulsadas por inteligencia artificial y optimización energética.",
+    "diskUsage": 517570,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/CARQUIDEC",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-23T05:13:20Z",
+    "updatedAt": "2026-08-23T05:14:56Z",
+    "url": "https://github.com/belentani7/CARQUIDEC"
+  },
+  {
+    "createdAt": "2026-08-18T09:35:38Z",
+    "description": "Registro maestro de proyectos Pedro Belentani 2026",
+    "diskUsage": 51,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/registro-proyectos-2026",
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-23T04:14:30Z",
+    "updatedAt": "2026-08-23T04:14:55Z",
+    "url": "https://github.com/belentani7/registro-proyectos-2026"
+  },
+  {
+    "createdAt": "2026-08-22T14:52:16Z",
+    "description": "Experimentos HTML del universo DUCK - interfaces y prototipos rapidos.",
+    "diskUsage": 21,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/DuckHTML",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-08-23T04:14:24Z",
+    "updatedAt": "2026-08-23T08:10:21Z",
+    "url": "https://github.com/belentani7/DuckHTML"
+  },
+  {
+    "createdAt": "2026-08-18T14:56:25Z",
+    "description": "DUCK ZION Apex — professional vocal production platform; audited snapshot, gate currently 57/60",
+    "diskUsage": 534,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/duck-zion-apex-public",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T04:13:07Z",
+    "updatedAt": "2026-08-23T04:13:20Z",
+    "url": "https://github.com/belentani7/duck-zion-apex-public"
+  },
+  {
+    "createdAt": "2026-08-06T08:53:30Z",
+    "description": "Repositório multilíngue de código aberto com livros e materiais audiovisuais educativos.",
+    "diskUsage": 1531,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Oculus-Tv",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T04:13:00Z",
+    "updatedAt": "2026-08-23T04:13:36Z",
+    "url": "https://github.com/belentani7/Oculus-Tv"
+  },
+  {
+    "createdAt": "2026-08-03T01:05:59Z",
+    "description": "Mapa de comprension y herramientas sobre TLP, vinculos y gestion emocional.",
+    "diskUsage": 700,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/tender-words-connect",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T04:12:57Z",
+    "updatedAt": "2026-08-23T08:10:23Z",
+    "url": "https://github.com/belentani7/tender-words-connect"
+  },
+  {
+    "createdAt": "2026-08-03T01:02:56Z",
+    "description": "Mapa de comprensión y herramientas sobre TLP, dinámicas de vínculo y gestión de límites emocionales. Del caos a la claridad.",
+    "diskUsage": 487,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/abrazo-tender-words",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-23T04:12:53Z",
+    "updatedAt": "2026-08-23T04:13:29Z",
+    "url": "https://github.com/belentani7/abrazo-tender-words"
+  },
+  {
+    "createdAt": "2026-08-18T10:57:04Z",
+    "description": "Suite RH/fiscal con automatizacion de calculos e informes.",
+    "diskUsage": 37,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/rh-fiscal-ultra-elite",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-23T04:10:30Z",
+    "updatedAt": "2026-08-23T08:10:26Z",
+    "url": "https://github.com/belentani7/rh-fiscal-ultra-elite"
+  },
+  {
+    "createdAt": "2026-08-19T12:37:04Z",
+    "description": "Music production assets on Html",
+    "diskUsage": 5,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/Duck-Deck",
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-23T04:10:25Z",
+    "updatedAt": "2026-08-23T04:10:38Z",
+    "url": "https://github.com/belentani7/Duck-Deck"
+  },
+  {
+    "createdAt": "2026-08-18T09:24:00Z",
+    "description": "Evidence-first change intelligence with strict 6-criteria, 3-node, 3-level gates",
+    "diskUsage": 241,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/proofmesh",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-22T09:16:28Z",
+    "updatedAt": "2026-08-22T09:16:35Z",
+    "url": "https://github.com/belentani7/proofmesh"
+  },
+  {
+    "createdAt": "2026-08-22T07:03:00Z",
+    "description": "DUCK Ω-MAX Studio OS — CRM, producción musical, operaciones y automatizaciones para clientes y proyectos.",
+    "diskUsage": 271,
+    "isArchived": false,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/omega-max-duck",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-22T07:25:43Z",
+    "updatedAt": "2026-08-25T21:29:20Z",
+    "url": "https://github.com/belentani7/omega-max-duck"
+  },
+  {
+    "createdAt": "2026-08-02T17:29:44Z",
+    "description": "Archived reference: Windows OpenManus/Ollama setup. Preserved for documentation; current work uses remote providers on modest hardware.",
+    "diskUsage": 158,
+    "isArchived": true,
+    "isFork": false,
+    "isPrivate": false,
+    "nameWithOwner": "belentani7/local-agent",
+    "primaryLanguage": {
+      "name": "PowerShell"
+    },
+    "pushedAt": "2026-08-02T18:45:02Z",
+    "updatedAt": "2026-08-12T01:47:43Z",
+    "url": "https://github.com/belentani7/local-agent"
+  }
+]

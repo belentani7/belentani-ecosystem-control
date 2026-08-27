@@ -21,3 +21,7 @@ git submodule update --init --recursive
 ```
 
 > Los repositorios marcados como `pendiente_revision_seguridad` se han excluido deliberadamente de los submódulos para no propagar configuraciones potencialmente sensibles.
+
+## Actualización — Ronda 2
+
+Se añadió `uaol-machine-realm` como submódulo privado con commit verificado tras una revisión superficial. El recuento histórico de 59 submódulos corresponde a la Ronda 1; con esta adición, el repositorio de control referencia 60 fuentes verificadas.

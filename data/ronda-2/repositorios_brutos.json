@@ -1,0 +1,993 @@
+[1;37m[[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-27T05:11:58Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 0[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mtrue[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/uaol-machine-realm"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-27T05:12:01Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-27T05:11:59Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/uaol-machine-realm"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-27T05:08:43Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 0[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mtrue[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/belentani-ecosystem-control"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Shell"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-27T05:08:46Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-27T05:09:28Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/belentani-ecosystem-control"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-27T04:45:54Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 0[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Maod-abertas"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-27T04:45:55Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-27T04:45:55Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Maod-abertas"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-27T04:17:54Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 0[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mtrue[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/belentani-local"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-27T04:18:34Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-27T04:19:11Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/belentani-local"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-27T04:09:57Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 247[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mtrue[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/aion"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-27T04:10:26Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-27T04:11:05Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/aion"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-26T23:01:33Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK Unified Master - Consolidação completa do ecossistema DUCK (9 repos, 1838 arquivos)"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 22535[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-unified-master"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-26T23:01:41Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-26T23:02:06Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-unified-master"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-07T07:57:52Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Cruzando el Charco, impulsado por noiacore.com y creado por Pedro Belentani, es un portal gratuito y confidencial de acogida, supervivencia y arraigo para hombres migrantes LGBT+ en L'Hospitalet y Barcelona. Información directa y práctica sobre papeles, salud, vivienda y comunidad."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 8704[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Cruzando-el-charco"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-26T19:19:11Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-26T20:01:34Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Cruzando-el-charco"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-26T06:46:44Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 0[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/jvictorbarbosa"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-26T06:46:45Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-26T06:46:45Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/jvictorbarbosa"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-26T02:57:09Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 0[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/fashion-stylist-ai"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-26T02:57:10Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-26T02:57:10Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/fashion-stylist-ai"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-26T01:02:11Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 8[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-music-lab"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Shell"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-26T02:45:26Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-26T02:47:00Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-music-lab"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-26T02:16:35Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 8[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/belentani7-gestaltAI"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-26T02:17:06Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-26T02:17:19Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/belentani7-gestaltAI"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-15T05:47:38Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Forja linguistica: herramientas de traduccion y adaptacion multilingue."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 657[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/linguaforge"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T22:23:00Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T22:23:07Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/linguaforge"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-23T18:16:53Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Plataforma educativa gratuita: cursos IA/Office, creador CV, guías derechos y recursos para migrantes y comunidades."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 2390[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/ManosAbiertas"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T22:22:45Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T22:23:04Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/ManosAbiertas"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-22T13:09:14Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Duck Studio Suite - suite integrada de produccion musical web."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 166[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-studio-suite"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T21:25:34Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T21:25:39Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-studio-suite"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-22T22:33:37Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK Belentani OS - snapshot auditado 2026-08-23 del sistema operativo creativo."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 374[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-belentani-os-audited-2026-08-23"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T21:25:33Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T21:25:37Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-belentani-os-audited-2026-08-23"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-25T19:10:15Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"IVY LA VIE — queer photoshoot project and visual portfolio."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 42085[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/ivy-la-vie"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T19:13:57Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T21:29:42Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/ivy-la-vie"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-11T23:12:18Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Belentani + NOIACORE | Frontend, creative technology and educational platforms"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 764[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/belentani7"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T19:13:44Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T19:13:58Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/belentani7"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-04T17:45:13Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Plataforma educativa multilingue con cursos gratuitos, CV guiado, asistentes offline y accesibilidad."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 12502[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mtrue[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/ManosAbiertas-backup-v1"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T04:35:11Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T05:59:50Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/ManosAbiertas-backup-v1"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-07-10T12:44:02Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Artist ecosystem"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 11565[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/belentani_Omega"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-25T01:18:06Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:26:09Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/belentani_Omega"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T08:50:29Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Ecosistema DUCK - herramientas, GUIs y apps del estudio creativo DUCK."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 449[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-ecosystem"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T20:21:10Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T20:26:16Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-ecosystem"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T11:11:33Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK 2026 - iteracion anual del ecosistema DUCK."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 4585[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-2026"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T13:05:32Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T20:26:17Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-2026"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T09:22:55Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK Full Studio Pro - FL Studio Ecosystem & Vault (Audited 10/10)"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 1280[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-full-studio-pro"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T13:05:23Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T20:26:19Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-full-studio-pro"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-10T09:11:57Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Este proyecto contiene la estructura local de una web comercial para servicios de reformas. La carpeta agrupa variantes HTML, recursos visuales, vídeos y documentación breve preparada para organizar el material antes de subirlo a GitHub."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 5793[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Steven-renovation"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T12:08:56Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T12:10:14Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Steven-renovation"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:52:02Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Proyecto Judas - experiencia musical demo"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 5609[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/judas-experience"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T12:08:52Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T12:12:15Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/judas-experience"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:52:20Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"PWA companion application"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 14[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/mimo-companion"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T11:56:00Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T11:56:47Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/mimo-companion"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-07-20T16:09:35Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Universal router and token budget guard for Claude Code"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 37[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/meta-skill"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T11:55:56Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T11:56:01Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/meta-skill"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:51:37Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"20 production-ready skills for AI coding assistants."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 72[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/claude-skills-pack"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T11:55:53Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T11:55:56Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/claude-skills-pack"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:02:25Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"BELENTANI OMEGA: Plantilla de experiencia web inmersiva y canon conceptual."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 5126[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/belentani-omega-template"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T11:55:50Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T11:57:13Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/belentani-omega-template"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T21:56:41Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Arte Que Veste - moda autoral y arte vestible; catalogo y tienda creativa."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 842[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/arte-que-veste"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T11:55:46Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T11:56:00Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/arte-que-veste"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-23T22:52:36Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"JUDAS OMEGA - storyboard cinematografico estatico"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 9[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/judas-omega-static"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-24T11:55:14Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-24T11:56:14Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/judas-omega-static"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-07-16T18:32:17Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"HEYDUCK - hub web del universo DUCK: apps, musica y herramientas de produccion."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 58652[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/heyduck"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T16:12:37Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T16:12:56Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/heyduck"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-07-31T11:40:14Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"NOIACORE LAB — plataforma digital de Pedro Belentani: catálogo, agente, automatización, observabilidad y diseño cinematográfico."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 484[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Belentani"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:46:30Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:47:18Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Belentani"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:58:18Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Universal validation envelopes with auditable 2-of-3 node confirmation"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 95[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/oss-compass"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:21:42Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:52Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/oss-compass"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:52:36Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"One CLI to route AI tasks to the best model."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 50[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/omniagent"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:21:36Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:43Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/omniagent"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:53:03Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Python tool for detecting flickering and temporal artifacts in AI-generated videos."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 37[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/temporal-artifact-detector"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:21:29Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:39Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/temporal-artifact-detector"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:52:10Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Benchmarking visual consistency in AI-generated content."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 37[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/latent-consistency-bench"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:21:21Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:32Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/latent-consistency-bench"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-15T13:11:51Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Pack de skills para agentes de codigo (estilo Manus/Claude) listos para produccion."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 9710[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/manus-ai-skill-pack"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:21:14Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:22:31Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/manus-ai-skill-pack"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:51:41Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Translate natural language creative briefs into valid ComfyUI JSON workflows using LLMs."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 46[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/comfyui-json-compiler"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:20:54Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:51Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/comfyui-json-compiler"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:52:58Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Core SDK for the Quadrachy Binding Protocol - structured format for defining and validating."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 40[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/qbp-core"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:20:48Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:44Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/qbp-core"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:52:47Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Validates PBR texture sets for correctness and compatibility with game engines."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 32[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/pbr-validator"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:20:40Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:20:56Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/pbr-validator"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:51:53Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Optimize GPU compute costs in diffusion pipelines by up to 70%."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 37[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/gpu-cost-optimizer"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:20:33Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:22Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/gpu-cost-optimizer"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:52:15Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Autonomous VFX pipeline orchestration using LLMs connected to ComfyUI APIs."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 35[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/llm-vfx-orchestrator"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:20:26Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:20:33Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/llm-vfx-orchestrator"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T14:51:31Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Translate cinematic language into optimized prompts for Stable Diffusion, Flux, and SDXL models."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 46[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/cinematic-prompt-formatter"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:20:19Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:21:20Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/cinematic-prompt-formatter"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-22T15:37:46Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK Lab - laboratorio de prototipos del universo DUCK/Zion."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 317[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-lab"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:18:33Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T20:26:21Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-lab"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T13:37:46Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"AI Command Center Level 10 - Unified Open Source Workspace"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 356[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/ai-command-center-level10"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:16:41Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T21:58:06Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/ai-command-center-level10"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T09:37:13Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Local-first evidence receipts for AI and Trust & Safety decisions"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 133[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/evidence-ledger"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:16:24Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:16:36Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/evidence-ledger"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-06-18T10:02:31Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Plataforma educativa multilingue para la profesora Natalia Marinho."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 724[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/nataliamarinho"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:16:07Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:17:04Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/nataliamarinho"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-04T18:11:16Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Next.js 16 frontend laboratory with image tooling, verified lint, tests and deployment previews."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 2575[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Netlify"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:15:58Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:16:39Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Netlify"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T21:47:10Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"iDuck GUI + DUCK STATION (mobile) + DUCK FL STUDIO (DAW web) — apps ao vivo"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 865[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-apps"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:15:50Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T21:58:10Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-apps"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-15T07:22:20Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Empresa 100 generada con IA por Belentani"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 1218[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/entrenador-jorge-bcn"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:15:43Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:15:56Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/entrenador-jorge-bcn"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-05T16:20:18Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"📄 Belentani Document Studio - Crea CV, cartas y presentaciones con IA. 0.99€ pago único. . GDPR. AES-256. Hecho para todos."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 1722[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Belentani.cv-ai"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:15:25Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:16:03Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Belentani.cv-ai"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-12T21:34:03Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK Omega - ecosistema artistico y productivo del proyecto Duck/Zion (Belentani)."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 505[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Duck-Omega"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:15:16Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:15:31Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Duck-Omega"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T09:57:31Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Harmonia Hub - plataforma de coordinacion y bienestar."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 1194[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/harmonia-hub"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:14:58Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:15:14Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/harmonia-hub"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-15T14:49:01Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Portfolio premium de Pedro Belentani: Trust & Safety, sistemas de IA, automatización, ingeniería de software y creative tech."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 512[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/belentaniexperience"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T14:14:50Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T14:15:27Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/belentaniexperience"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-16T16:16:56Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK/BELENTANI Canal Zion — Studio OS, Ecosystem y Toolkit de producción musical, afinación y mastering."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 207999[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/DUCK-ZION-PREMIUM"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T11:01:28Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T21:29:21Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/DUCK-ZION-PREMIUM"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-02T15:13:23Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Repositorio oficial de CARQUIDEC. Arquitectura de vanguardia, diseño paramétrico y soluciones bioclimáticas impulsadas por inteligencia artificial y optimización energética."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 517570[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/CARQUIDEC"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T05:13:20Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T05:14:56Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/CARQUIDEC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T09:35:38Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Registro maestro de proyectos Pedro Belentani 2026"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 51[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/registro-proyectos-2026"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:14:30Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T04:14:55Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/registro-proyectos-2026"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-22T14:52:16Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Experimentos HTML del universo DUCK - interfaces y prototipos rapidos."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 21[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/DuckHTML"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:14:24Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T08:10:21Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/DuckHTML"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T14:56:25Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK ZION Apex — professional vocal production platform; audited snapshot, gate currently 57/60"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 534[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/duck-zion-apex-public"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:13:07Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T04:13:20Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/duck-zion-apex-public"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-06T08:53:30Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Repositório multilíngue de código aberto com livros e materiais audiovisuais educativos."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 1531[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Oculus-Tv"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:13:00Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T04:13:36Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Oculus-Tv"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-03T01:05:59Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Mapa de comprension y herramientas sobre TLP, vinculos y gestion emocional."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 700[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/tender-words-connect"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:12:57Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T08:10:23Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/tender-words-connect"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-03T01:02:56Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Mapa de comprensión y herramientas sobre TLP, dinámicas de vínculo y gestión de límites emocionales. Del caos a la claridad."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 487[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/abrazo-tender-words"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:12:53Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T04:13:29Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/abrazo-tender-words"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T10:57:04Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Suite RH/fiscal con automatizacion de calculos e informes."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 37[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/rh-fiscal-ultra-elite"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"Python"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:10:30Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T08:10:26Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/rh-fiscal-ultra-elite"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-19T12:37:04Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Music production assets on Html"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 5[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/Duck-Deck"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-23T04:10:25Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-23T04:10:38Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/Duck-Deck"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-18T09:24:00Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Evidence-first change intelligence with strict 6-criteria, 3-node, 3-level gates"[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 241[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/proofmesh"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-22T09:16:28Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-22T09:16:35Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/proofmesh"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-22T07:03:00Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"DUCK Ω-MAX Studio OS — CRM, producción musical, operaciones y automatizaciones para clientes y proyectos."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 271[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/omega-max-duck"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"TypeScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-22T07:25:43Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-25T21:29:20Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/omega-max-duck"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"createdAt"[m[1;37m:[m [32m"2026-08-02T17:29:44Z"[m[1;37m,[m
+    [1;34m"description"[m[1;37m:[m [32m"Archived reference: Windows OpenManus/Ollama setup. Preserved for documentation; current work uses remote providers on modest hardware."[m[1;37m,[m
+    [1;34m"diskUsage"[m[1;37m:[m 158[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mtrue[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"nameWithOwner"[m[1;37m:[m [32m"belentani7/local-agent"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"PowerShell"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"pushedAt"[m[1;37m:[m [32m"2026-08-02T18:45:02Z"[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-12T01:47:43Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/belentani7/local-agent"[m
+  [1;37m}[m
+[1;37m][m
